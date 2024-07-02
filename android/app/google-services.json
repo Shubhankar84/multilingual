@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357209852369",
+    "project_id": "flyin-f4cfd",
+    "storage_bucket": "flyin-f4cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357209852369:android:ebcbfd874cd941704af8f0",
+        "android_client_info": {
+          "package_name": "com.example.flyin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDphXA2JLd9CzBlsKOUon6Jp7X1v5VOsMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

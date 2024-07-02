@@ -1,0 +1,54 @@
+{
+    "flyin": "फ्लायिन",
+    "@flyin": {
+        "description": "एप का नाम"
+    },
+
+    "vlog": "व्लॉग्स",
+    "@vlog": {
+        "description": "व्लॉग्स"
+    },
+
+    "all": "सभी",
+    "entertainment": "मनोरंजन",
+    "education": "शिक्षा",
+    "lifestyle": "जीवन शैली",
+    "travel": "यात्रा",
+    "gaming": "गेमिंग",
+    "sports": "खेल",
+    "music": "संगीत",
+    "vlogs": "व्लॉग्स",
+    "technology": "प्रौद्योगिकी",
+    "yourvideos": "आपके वीडियो",
+    "explore": "अन्वेषण",
+    "upload": "अपलोड",
+    "profile": "प्रोफ़ाइल",
+    "videodetails": "वीडियो विवरण",
+    "views": "दृश्य",
+    "daysago": "दिन पहले",
+    "viewall": "सभी देखें",
+    "share": "साझा करें",
+    "search" : "खोज",
+    "addvideo" : "व्हिडिओ जोडा",
+    "gallery" : "गॅलरी",
+    "camera" : "कॅमेरा",
+    "cancel" : "कॅन्सल",
+    "title" : "शीर्षक",
+    "caption" : "कॅप्शन",
+    "selectcategory" : "सिलेक्ट कॅटेगरी",
+    "uploadsuccess" : "अपलोड झाले",
+    "filesuccess" : "आपकी फ़ाइल अपलोड सफल रही!",
+    "home" : "होम",
+    "uploadmore" : "अधिक वीडियो अपलोड करें",
+    "login" : "लॉगिन",
+    "phonenumber" : "फोन नंबर",
+    "getotp" : "ओटीपी प्राप्त करें",
+        "otpverification" : "ओटीपी सत्यापन",
+    "enterotpsent" : "द्वारा भेजा गया ओटीपी दर्ज करें",
+    "verfiyproceed" : "सत्यापित करें और आगे बढ़ें",
+    "getstarted" : "शुरू हो जाओ",
+    "username" : "उपयोगकर्ता नाम",
+    "register" : "रजिस्टर"
+
+
+}

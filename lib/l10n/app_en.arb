@@ -1,0 +1,56 @@
+{
+    "flyin": "Flyin",
+    "@flyin":{
+        "description": "The app name"
+    },
+
+    "vlog": "Vlogs",
+    "@vlog":{
+        "description": "Vlogs"
+    },
+
+    "all": "All",
+    "entertainment": "Entertainment",
+    "education": "Education",
+    "lifestyle": "Lifestyle",
+    "travel": "Travel",
+    "gaming": "Gaming",
+    "sports": "Sports",
+    "music": "Music",
+    "vlogs": "Vlogs",
+    "technology": "Technology",
+    "yourvideos": "Your Videos",
+    "explore": "Explore",
+    "upload": "Upload",
+    "profile" : "Profile",
+    "videodetails" : "Video Details",
+    "views" : "Views",
+    "daysago": "Days ago",
+    "viewall" : "View all",
+    "share" : "Share",
+    "search" : "Search",
+    "addvideo" : "Add Video",
+    "gallery" : "Gallery",
+    "camera" : "camera",
+    "cancel" : "Cancel",
+    "title" : "Title",
+    "caption" : "Caption",
+    "selectcategory" : "Selecte Category",
+    "uploadsuccess" : "Upload Success",
+    "filesuccess" : "Your File Upload was Successful!",
+    "home" : "Home",
+    "uploadmore" : "Upload More Videos",
+    "login" : "Login",
+    "phonenumber" : "Phone Number",
+    "getotp" : "Get OTP",
+    "otpverification" : "OTP Verification",
+    "enterotpsent" : "Enter OTP sent to",
+    "verfiyproceed" : "Verify & Proceed",
+    "getstarted" : "Get Started",
+    "username" : "Username",
+    "register" : "Register"
+
+
+
+
+}
